@@ -67,3 +67,14 @@ Supreme Housing Finance company deals in all home loans. They have a presence ac
 
 📍 Task2 -> Predictive behavior modeling i.e. to classify if a customer is going to Loan Approve or not
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+1. Splitting data into train and test data in 80:20 ratio.
+2. Building and training five classification models on the 80% training split: Logistic Regression, Decision Tree, Random Forest, XGBoost and SVC that will 
+   attach a probability whether a customer is getting loan Approved or not.
+3. Making predictions from the model
+4. Testing the performance of the model using performance metrics like Accuracy, Precision, Recall, F-1 score and AUC.
+
+📍 Task3 -> Choose the most reliable model
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+1. For Decision Tree and Random Forest, GridSearchCV was used to iterate through relevant parameters and refit the best estimator using 5-fold cross validation. 
+2. The Random Forest algorithm and XGBoost Algorithm provides highest accuracy and also XGBoost algorithm givesthe AUC highest in comparison to other methods.
+3. I can chose either Random Forest or the XGBoost model to Loan Approved Prediction.
