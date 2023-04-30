@@ -23,4 +23,8 @@ Supreme Housing Finance company deals in all home loans. They have a presence ac
 # Approach
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 📍 # Task1 -> Performing Exploratory Data Analysis on the data
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+1. Applied data pre-processing and preparation techniques in order to obtain clean data.
+2. Univariate and Bivariate Analysis was done. Here the main interest was to get an understanding as to how the given attributes relate to the 'Exit' status.
+3. Inisghts Obtained are as follows:
