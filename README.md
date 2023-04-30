@@ -30,6 +30,7 @@ Supreme Housing Finance company deals in all home loans. They have a presence ac
 3. Inisghts Obtained are as follows:
 
 📌 408(around 69%) people out of 591 got the approval.
+
 📌 80% of applicants in the dataset are male.
 
 📌Around 65% of the applicants in the dataset are married.
@@ -64,3 +65,5 @@ Supreme Housing Finance company deals in all home loans. They have a presence ac
 
 📌Gender, Married, Dependents, Coapplicant Income and Property Area are correlated.
 
+📍 Task2 -> Predictive behavior modeling i.e. to classify if a customer is going to Loan Approve or not
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
