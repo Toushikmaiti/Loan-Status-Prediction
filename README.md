@@ -76,5 +76,5 @@ Supreme Housing Finance company deals in all home loans. They have a presence ac
 📍 Task3 -> Choose the most reliable model
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 1. For Decision Tree and Random Forest, GridSearchCV was used to iterate through relevant parameters and refit the best estimator using 5-fold cross validation. 
-2. The Random Forest algorithm and XGBoost Algorithm provides highest accuracy and also XGBoost algorithm givesthe AUC highest in comparison to other methods.
+2. The Random Forest algorithm and XGBoost Algorithm provides highest accuracy and also XGBoost algorithm gives the AUC highest in comparison to other methods.
 3. I can chose either Random Forest or the XGBoost model to Loan Approved Prediction.
