@@ -30,6 +30,7 @@ Supreme Housing Finance company deals in all home loans. They have a presence ac
 3. Inisghts Obtained are as follows:
 
 📌 408(around 69%) people out of 591 got the approval.
+
 📌 80% of applicants in the dataset are male.
 📌Around 65% of the applicants in the dataset are married.
 📌About 15% of applicants in the dataset are self-employed.
@@ -47,6 +48,3 @@ Supreme Housing Finance company deals in all home loans. They have a presence ac
 📌Credit History is Highly correlated to our target.
 📌Education, Self Employed, Applicant Income, Loan Amount, Loan Amount Term has Negative correlation.
 📌Gender, Married, Dependents, Coapplicant Income and Property Area are correlated.
-📌
-📌
-📌
