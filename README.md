@@ -30,21 +30,37 @@ Supreme Housing Finance company deals in all home loans. They have a presence ac
 3. Inisghts Obtained are as follows:
 
 📌 408(around 69%) people out of 591 got the approval.
-
 📌 80% of applicants in the dataset are male.
+
 📌Around 65% of the applicants in the dataset are married.
+
 📌About 15% of applicants in the dataset are self-employed.
+
 📌About 85% of applicants have repaid their debts.
+
 📌Most of the applicants don’t have dependents.
+
 📌About 78% of the applicants are graduates.
+
 📌Most of the applicants are from semi-urban areas.
+
 📌The proportion of male and female applicants is more or less the same for both approved and unapproved loans.
+
 📌The proportion of married applicants is higher for the approved loans.
+
 📌The proportion of loans getting approved with 0 dependents is more as pompared to the 1 or 2 or 3+ dependents.
+
 📌The loan is getting approved much higher for graduate than Not graduate.
+
 📌The self employed is getting less loan approved as compared to non self employed.
+
 📌The proportion of loans getting approved in semi-urban areas is higher as compared to that in rural or urban areas.
+
 📌The people with a credit history of 1 are more likely to get their loans approved.
+
 📌Credit History is Highly correlated to our target.
+
 📌Education, Self Employed, Applicant Income, Loan Amount, Loan Amount Term has Negative correlation.
+
 📌Gender, Married, Dependents, Coapplicant Income and Property Area are correlated.
+
